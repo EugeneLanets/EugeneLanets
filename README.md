@@ -23,7 +23,6 @@
 
 ### Связаться со мной
 - Telegram [@Lanets](https://t.me/Lanets)
-- Телефон +79113430073
 - Email eugene.lanets@gmail.com
 
 <!---
