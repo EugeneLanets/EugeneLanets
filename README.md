@@ -1,7 +1,6 @@
 ## Привет, меня зовут Евгений Ланец!
 
-- Начинающий фронтенд разработчик
-- Хочу работать над настоящими проектами с опытными разработчиками
+- Фронтенд разработчик
 - Хочу развиваться в профессии и изучать новые технологии
 - Хочу писать работающий чистый и понятный код
 
@@ -23,7 +22,7 @@
 
 ### Связаться со мной
 - Telegram [@Lanets](https://t.me/Lanets)
-- Email eugene.lanets@gmail.com
+- Email swarrt@gmail.com
 
 <!---
 EugeneLanets/EugeneLanets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
